@@ -1,2 +1,4 @@
 * [Flutter architectural overview](https://docs.flutter.dev/resources/architectural-overview#building-widgets)
 * [Flutter图片内存优化实践](https://toutiao.io/posts/e4hawk4/preview)
+* [Flutter Performance best practces](https://docs.flutter.dev/perf/best-practices)
+* [Flutter实战*第二版](https://book.flutterchina.club/)
