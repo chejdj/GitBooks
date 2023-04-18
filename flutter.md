@@ -2,3 +2,4 @@
 * [Flutter图片内存优化实践](https://toutiao.io/posts/e4hawk4/preview)
 * [Flutter Performance best practces](https://docs.flutter.dev/perf/best-practices)
 * [Flutter实战*第二版](https://book.flutterchina.club/)
+* [Flutter架构模式](https://codewithandrea.com/articles/flutter-project-structure/#project-structure-in-relation-to-app-architecture)
