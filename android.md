@@ -15,7 +15,30 @@
 12. [深入探索 Android 启动速度优化](https://juejin.cn/post/6844904093786308622)
 13. [抖音 Android 性能优化系列：启动优化之理论和工具篇](https://mp.weixin.qq.com/s?__biz=MzI1MzYzMjE0MQ==&mid=2247491335&idx=1&sn=e3eabd9253ab2f83925af974db3f3072&chksm=e9d0d4e5dea75df3f718744d1f5fe3aa518f7c119d3d1a7392952274fc0d90a07fad88cad133&scene=178&cur_album_id=1659632937832595461#rd)
 14. [APM 页面加载耗时校准](https://mp.weixin.qq.com/s/Hgjm0GaI27he7VWbPB56YA)
-15. [Improving App Performance with Baseline Profiles](https://android-developers.googleblog.com/2022/01/improving-app-performance-with-baseline.html)
+15. [Improving App Performance with Baseline Profiles](https://android-developers.googleblog.com/2022/01/improving-app-performance-with-baseline.html)  
+#### 流畅度
+1. [Android 中的卡顿丢帧原因概述 - 方法论](https://www.androidperformance.com/2019/09/05/Android-Jank-Debug/)
+2. [Android 中的卡顿丢帧原因概述 - 系统篇](https://www.androidperformance.com/2019/09/05/Android-Jank-Due-To-System/)
+3. [Android 中的卡顿丢帧原因概述 - 应用篇](https://www.androidperformance.com/2019/09/05/Android-Jank-Due-To-App/)
+4. [Android 卡顿掉帧问题分析之原理篇](https://www.jianshu.com/p/386bbb5fa29a)
+5. [Android 卡顿掉帧问题分析之工具篇](https://www.jianshu.com/p/cf531a3af828)
+6. [Android 卡顿掉帧问题分析之实战篇](https://www.jianshu.com/p/f1a777551b70)
+7. [Android 平台应用宝和讯飞输入法无障碍服务导致的全局卡顿分析](https://androidperformance.com/2019/01/21/android-performance-case-jank-accessbility/)
+8. [Evaluating Performance](https://source.android.com/devices/tech/debug/eval_perf)
+9. [Understanding Systrace](https://source.android.com/docs/core/tests/debug/systrace?hl=zh-cn)
+10. [Using ftrace](https://source.android.com/docs/core/tests/debug/ftrace?hl=zh-cn)
+11. [Identifying Capacity-Related Jank](https://source.android.com/docs/core/tests/debug/jank_capacity?hl=zh-cn)
+12. [Identifying Jitter-Related Jank](https://source.android.com/docs/core/tests/debug/jank_jitter?hl=zh-cn)
+13. [那些年我们用过的显示性能指标](https://blog.csdn.net/tencent_bugly/article/details/51354517)
+14. [Slow rendering](https://developer.android.google.cn/topic/performance/vitals/render?hl=zh-cn)
+15. [Android 流畅度检测原理简析](https://juejin.cn/post/6844903601060462605)
+16. [Android JankTracker 原理解析](https://blog.csdn.net/msf568834002/article/details/79015497)
+17. [Android 界面性能调优手册](https://blog.csdn.net/DickyQie/article/details/78282241)
+18. [App 流畅度优化：利用字节码插桩实现一个快速排查高耗时方法的工具](https://juejin.cn/post/6844903975142047758)
+19. [或许是迄今为止第一篇讲解 fps 计算原理的文章吧](https://juejin.cn/post/6844904182898524168)
+20.[Jank 卡顿及 stutter 卡顿率说明](https://perfdog.qq.com/article_detail?id=10162&issue_id=0&plat_id=1)
+21. [一文读懂直播卡顿优化那些事儿](https://mp.weixin.qq.com/s?__biz=MzI1MzYzMjE0MQ==&mid=2247491520&idx=1&sn=dbd14f1d0d6107c87c137433ef435b5b)
+
 
 
 ### 其他
